@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SamuelBCowan
-- 👀 I’m interested in shoes, coding, and MMA
-- 🌱 I’m currently learning Java for AP Computer Science
-- 💞️ I’m looking to collaborate on a coding project for class
-- 📫 How to reach me samuelbcowan8@gmail.com
+-Hi, I’m @SamuelBCowan
+-I’m interested in shoes, coding, and MMA
+-I’m currently learning Java for AP Computer Science
+-I’m looking to collaborate on a coding project for class
+-How to reach me samuelbcowan8@gmail.com
